@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Cover Letter Generator",
+    "description": "Generates personalized cover letters based on job listings and your resume.",
+    "version": "1.0",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

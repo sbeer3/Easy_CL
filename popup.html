@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Auto Cover Letter Generator</title>
+</head>
+<body>
+    <h2>Cover Letter Generator</h2>
+    <label for="apiKey">OpenAI API Key:</label>
+    <input type="password" id="apiKey" placeholder="Enter your API key">
+    
+    <label for="resume">Upload Resume (.txt):</label>
+    <input type="file" id="resume" accept=".txt">
+    
+    <button id="saveSettings">Save Settings</button>
+    <button id="generateLetter">Generate Cover Letter</button>
+    <p id="status"></p>
+    <script src="popup.js"></script>
+</body>
+</html>

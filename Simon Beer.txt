@@ -1,0 +1,42 @@
+Simon Beer
+307-421-3560 | sbeer3560@gmail.com
+Professional Experience and Projects
+MGMA | July 2022 – present | Full Stack Software Developer | Denver, CO
+•
+Spearheading multiple full-scale application refactor projects, including the company’s main website and credit software, enhancing functionality and user experience.
+•
+Leading the development and maintenance of medical credit tracking software using C# and ASP.Net Core, ensuring high standards of code quality and application performance.
+•
+Working closely with cross-functional teams, including product managers and designers, to develop and launch new features that improve patient engagement and satisfaction.
+•
+Developing and maintaining scalable applications using C#, ASP.Net Core, JavaScript, HTML, XML, and Python, ensuring high standards of code quality and application performance.
+Insurxcel | April 2022 – September 2022 | Software Developer | Laramie, WY
+•
+Designed and implemented new features in insurance rate calculation software using C#, leading to an improvement in calculation efficiency and customer satisfaction.
+•
+Developed solutions using Java, C#, and TypeScript, adhering to best practices in coding and software design.
+Nanotherma | Dec 2020 – September 2022 | Full-stack Software Developer | Laramie, WY
+•
+Redesigned a graphical user interface from scratch using C# and WPF, facilitating easy access to specialized chemistry algorithms for student chemists.
+•
+Utilized Python, JavaScript, and HTML to implement robust solutions, significantly improving the research capabilities of the chemistry department.
+Relevant Projects:
+•
+Operating Systems Final Project | https://github.com/cosc4740fa21/fproject-group_a
+o
+Developed a computer filesystem simulation from the ground up in C++, demonstrating extensive knowledge of operating systems and their file systems.
+•
+Senior Design Project | https://gitlab.ssc.dev/jgegax/base-maze-logic
+o
+Led a team in developing a security-focused biometric machine learning application designed to prevent fraud. The project utilized Go, HTML, and JavaScript to create a system that accurately identified and verified users based on biometric data, reducing the likelihood of fraudulent activities.
+Skills
+•
+Programming Languages: Proficient in JavaScript, Node.js, TypeScript, C++, C#, Python, Java / Kotlin and Go.
+•
+Frameworks/Technologies: Skilled in ASP.Net, Razor, HTML, CSS, React, GraphQL, SQL, and WPF.
+•
+Tools: Experienced in using Git, Docker, MATLAB, Unix-based systems, and experience in Microsoft Dynamics CRM.
+•
+Project Management: Certified Scrum Master with expertise in Agile and Scrum methodologies, enhancing team productivity and project coherence.
+Education
+Bachelor of Science, Computer Science | University of Wyoming College of Engineering and Applied Science | Laramie Wyoming

@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+}
+#status {
+    color: green;
+    margin-top: 10px;
+}
+.error {
+    color: red;
+}
+label {
+    font-weight: bold;
+}
+input[type="password"], input[type="file"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+button {
+    width: 48%;
+    margin-right: 2%;
+    padding: 5px;
+}
